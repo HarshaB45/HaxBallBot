@@ -119,9 +119,5 @@ The reward is **shared** between both agents to encourage cooperation.
 
 ---
 
-## Note on Communication
-
-There is no explicit communication action.
-Coordination emerges implicitly through movement choices and kicking behavior.
 
 
